@@ -109,6 +109,7 @@ body {
     margin-left: 30px;
 
     &::after {
+        //?!
         content: url("~\img\Shape.png");
         position: relative;
         top: 2px;
