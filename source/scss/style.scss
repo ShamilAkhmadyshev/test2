@@ -7,7 +7,7 @@ body {
     margin: 0 auto;
     background-color: #e8e8e8;
     color: #273d46;
-    background: url("..\img\Ellipse_1_copy.png") 250px 85px no-repeat;
+    background: url("~\img\Ellipse_1_copy.png") 250px 85px no-repeat;
 }
 
 .top {
@@ -90,7 +90,7 @@ body {
         }
 
         &::before {
-            content: url("..\img\check_icon.png");
+            content: url("~\img\check_icon.png");
             position: relative;
             top: 5px;
             padding-right: 10px;
@@ -109,7 +109,7 @@ body {
     margin-left: 30px;
 
     &::after {
-        content: url("..\img\Shape.png");
+        content: url("~\img\Shape.png");
         position: relative;
         top: 2px;
         left: 7px;
