@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Another Danger Slanted(RUS BY L';
+    src: url('AnotherDangerSlantedRUSBYL.eot');
+    src: url('AnotherDangerSlantedRUSBYL.eot?#iefix') format('embedded-opentype'),
+        url('AnotherDangerSlantedRUSBYL.woff2') format('woff2'),
+        url('AnotherDangerSlantedRUSBYL.woff') format('woff'),
+        url('AnotherDangerSlantedRUSBYL.ttf') format('truetype'),
+        url('AnotherDangerSlantedRUSBYL.svg#AnotherDangerSlantedRUSBYL') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
