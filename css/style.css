@@ -73,14 +73,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*--------------------*/
-@font-face {
-  font-family: "Danger Slanted";
-  src: url("../fonts/AnotherDangerSlantedRUSBYL.eot");
-  src: url("../fonts/AnotherDangerSlantedRUSBYL.eot?#iefix") format("embedded-opentype"), url("../fonts/AnotherDangerSlantedRUSBYL.woff2") format("woff2"), url("../fonts/AnotherDangerSlantedRUSBYL.woff") format("woff"), url("../fonts/AnotherDangerSlantedRUSBYL.ttf") format("truetype"), url("../fonts/AnotherDangerSlantedRUSBYL.svg#AnotherDangerSlantedRUSBYL") format("svg");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
 body {
   width: 821px;
   padding-top: 150px;
@@ -137,8 +129,7 @@ body {
 }
 
 .content-bottom {
-  font-family: Danger Slanted;
-  font-display: swap;
+  font-family: Arial, Helvetica, sans-serif;
   margin-left: 30px;
   margin-top: 45px;
 }
