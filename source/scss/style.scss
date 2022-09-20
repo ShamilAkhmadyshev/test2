@@ -1,5 +1,31 @@
 @import "_nullstyle";
 
+.top {
+    &__about {
+        color: #000;
+    }
+
+    &__bottom {
+        color: #000;
+        &_active {
+            font-size: large;
+        }
+    }
+}
+
+.top {
+    &__about {
+    }
+
+    &__bottom {
+    }
+
+    &__bottom-active {
+    }
+}
+.zero {
+}
+
 body {
     width: 821px;
     padding-top: 150px;

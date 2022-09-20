@@ -73,6 +73,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*--------------------*/
+.top__about {
+  color: #000;
+}
+.top__bottom {
+  color: #000;
+}
+.top__bottom_active {
+  font-size: large;
+}
+
 body {
   width: 821px;
   padding-top: 150px;
